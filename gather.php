@@ -11,7 +11,7 @@ if($_REQUEST['Digits'] == '1234'){
 }elseif($_REQUEST['Digits'] == '1'){
   ?>
   <Response>
-    <Say>Transferring to Sean now</Say>
+    <Say>Transferring to Adam now</Say>
     <Dial>818-575-6191</Dial>
   </Response>
   <?php
@@ -19,7 +19,7 @@ if($_REQUEST['Digits'] == '1234'){
 }elseif($_REQUEST['Digits'] == '2'){
   ?>
   <Response>
-    <Say>Transferring to Pamela now</Say>
+    <Say>Transferring to Bryan now</Say>
     <Dial>780-555-5555</Dial>
   </Response>
   <?php
